@@ -23,7 +23,7 @@
   通勤時の電車の中で実装内容を調べたり、自宅に帰ってから翌日の実装内容を事前に実装していました.
 - 使用スキル : C#(ASP.NET)、VB.NET(Windows Form)、SQLServer、Windows Server
 - 開発体制 : 2 - 3人
-- ポジション : PJ、コーダー
+- ポジション : PJ、PG
 
 ### フリーランス
 - 期間 : 2019年6月 - 現在
@@ -32,8 +32,8 @@
   お客様との仕様調整から開発、保守、障害対応まで対応しました.
   - 期間 : 2019年6月 - 現在
   - 主な開発内容 :  
-      アプリにEC機能を新規追加しました.
-      商品一覧画面、商品詳細画面、カート画面、購入確認画面、履歴画面、各画面のAPI作成
+      アプリにEC機能を新規追加しました.  
+      ECの商品一覧画面、商品詳細画面、カート画面、購入確認画面、履歴画面、各画面のAPI作成
   - 苦労した点 :  
     PHP(CakePHP)の経験がなかったのでキャッチアップが大変でした.  
     アプリと接続するAPI(CakePHP)の作成から、iOS、Androidまで対応する場合、作業内容が多くなり、リリースに間に合わせるのが大変でした.  
@@ -42,27 +42,41 @@
     データ構造をアプリ側でパースしやすいように作成するなど、作業効率を意識して取り組みました.  
   - 使用スキル : PHP(CakePHP)、Mysql、iOS(Swift)、Android(Java)
   - 開発体制 : 2 - 3人
-  - ポジション : コーダー
+  - ポジション : PG
     
   ### テイクアウトアプリ
-  飲食店向けのテイクアウトアプリで、お店側が使用する店舗アプリ(iOS)の開発・保守を担当.
+  飲食店向けのテイクアウトアプリで、お店側が使用する店舗アプリ(iOS)の開発・保守を担当.  
   お客様との仕様調整から開発、保守、障害対応まで対応しました.
   - 期間 : 2020年10月 - 2021年12月 
   - 主な開発内容 :  
-      店舗アプリ(iOS)の新規開発.
+      店舗アプリ(iOS)の新規開発・保守.
       注文一覧画面、注文詳細画面、商品管理画面、店舗情報画面を作成
   - 苦労した点 :  
-    iPhoneとiPadで展開していたので、レイアウトの違う画面の対応が大変でした.
+    iPhoneとiPadを展開していたので、レイアウトの違う画面の対応が大変でした.
   - 工夫した点 :  
     iPhoneとiPadで共通で使用できるレイアウトは共通化するなどできるだけ開発効率を上げるように工夫しました.
   - 使用スキル : iOS(Swift)
   - 開発体制 : 2 - 3人
-  - ポジション : PJ、コーダー
+  - ポジション : PJ、PG
+  
+  ### 動画再生プレイヤー
+  某テレビ局の動画配信アプリ(動画再生プレイヤー周り)の開発・保守を担当.  
+  スマフォ(iPhone、Android)、TVアプリ(TVOS、AndroidTV)、スマートTV(React)と幅広いプラットフォームの機能追加、バグ修正を対応.  
+  - 期間 : 2022年10月 - 現在  
+  - 主な開発内容 :  
+      動画配信アプリのプレイヤー周りの開発・保守.  
+  - 苦労した点 :  
+    スマートTV(React)の最初のリリース後の開発を担当することになり、React + XStateの経験がなかったが、公式リファレンスを読み込んで２週間くらいでキャッチアップしたこと.  
+  - 工夫した点 :  
+    Reactの経験がなく、リリースまでの時間もない中でリファレンス読み込んで必要な部分をキャッチして対応しました.  
+  - 使用スキル : iOS(Swift)、Android(Java)、TVOS(Swift)、AndroidTV(Java)、React  
+  - 開発体制 : 2 - 3人  
+  - ポジション : PG  
 
 ## :computer: Programming skills
-- PHP(CakePHP) 3年〜
-- iOS(Swift) 3年〜
-- Android(Java) 1年〜  
+- PHP(CakePHP) 5年〜
+- iOS(Swift) 5年〜
+- Android(Java) 5年〜  
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> </p>
 
 ## :+1: Strong point
