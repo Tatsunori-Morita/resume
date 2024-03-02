@@ -79,17 +79,17 @@
 - React(Typescript) 半年 -    
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> </p>
 
-## :+1: Strong point
+## 🙆‍♂️ Strong point
 営業経験もあり、仕様調整のディレクションから、Webのバックエンド、アプリの開発まで幅広く対応可能です。  
 開発メンバーの人数やスキルに応じて役割を合わせられるので、小規模の企業や少人数メンバーでの開発に強いです。  
 可能な限り自分で調べて、自分だけではどうにもならないことは相談したりと、ある程度自走できるので喜ばれます。  
 
-## :-1: Weak point
+## 🙅‍♂️ Weak point
 一つの言語に特化はしていないので、専門で開発されている方には知識で劣るかなと思います。  
 
-## ブログ
+## 📘 ブログ
 [ブログ](https://tatsunori-morita.com/)
 
-## ポートフォリオ
+## 🌐 ポートフォリオ
 個人開発もしています。 iOSが一番好きなのでプライベートではiOS開発して遊んでいます。  
 [Pokémon WITH](https://github.com/Tatsunori-Morita/pokemon_with_ios)
