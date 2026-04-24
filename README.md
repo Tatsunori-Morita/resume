@@ -1,8 +1,25 @@
 # :page_facing_up: Resume
 ## :smile: About me
 - 名前 : 森田 辰典
-- 出身 : 愛知県
-- 趣味 : 硬式テニス(高校からしてます. 現在も週1くらいでしてます)
+- 出身 : 愛知県(愛知県在住)
+- 趣味 : 硬式テニス、読書、アニメ鑑賞、映画鑑賞、スケッチ、ソフトウェア開発、ゲーム
+
+## 最終学歴
+
+2009年3月 中部大学 経営情報学部 経営学科卒業
+
+## 職務要約
+モバイルアプリ（iOS/Android）およびWebのフルスタック開発に従事。
+iOS（Swift）、Android（Java）によるネイティブ開発に加え、
+React Native（TypeScript）を用いたクロスプラットフォーム開発にも対応可能。
+
+動画配信領域において、スマートフォン・TV（tvOS / Android TV）・Web（React）など
+マルチプラットフォームでの開発経験を持ち、プレイヤー周りの開発・保守を担当。
+
+また、React Nativeを用いた個人開発やOSSへのコントリビューションにも取り組んでいます。
+
+フリーランスとしてフルリモート環境での開発経験があり、
+要件定義・仕様調整から実装、保守・運用まで一貫して対応可能。
 
 ## :office: Work experience
 ### 株式会社TYK
@@ -23,14 +40,15 @@
   通勤時の電車の中で実装内容を調べたり、自宅に帰ってから翌日の実装内容を事前に実装していました。  
 - 使用スキル : C#(ASP.NET)、VB.NET(Windows Form)、SQLServer、Windows Server
 - 開発体制 : 2 - 3人
-- ポジション : PJ、PG
+- ポジション : PJ、設計〜運用まで担当
 
 ### フリーランス
 - 期間 : 2019年6月 - 現在
+- 勤務形態：フルリモート
   ### 会員制セルフエステ
   会員制セルフエステにおいて、会員が使用するWebサイトやアプリの保守を担当。  
   お客様との仕様調整から開発、バグ対応まで対応しました。  
-  - 期間 : 2019年6月 - 現在
+  - 期間 : 2019年6月 - 2025年10月
   - 代表的な開発 :  
     iOS、AndroidアプリにEC機能  
     (ECの商品一覧画面、商品詳細画面、カート画面、購入確認画面、履歴画面、各画面のAPI作成)を新規追加しました。  
@@ -42,7 +60,7 @@
     データ構造をアプリ側でパースしやすいように作成するなど、作業効率を意識して取り組みました。  
   - 使用スキル : PHP(CakePHP)、Mysql、iOS(Swift)、Android(Java)
   - 開発体制 : 2 - 3人
-  - ポジション : PG
+  - ポジション : 設計〜運用まで担当
     
   ### テイクアウトアプリ
   飲食店向けのテイクアウトアプリで、お店側が使用する店舗アプリ(iOS)の開発・保守を担当。  
@@ -56,7 +74,7 @@
     iPhoneとiPadで共通で使用できるレイアウトは共通化するなどできるだけ開発効率を上げるように工夫しました。  
   - 使用スキル : iOS(Swift)
   - 開発体制 : 2 - 3人
-  - ポジション : PJ、PG
+  - ポジション : PJ、設計〜運用まで担当
   
   ### 動画再生プレイヤー
   某テレビ局の動画配信アプリ(動画再生プレイヤー周り)の開発・保守を担当。  
@@ -70,14 +88,7 @@
     Reactの経験がなく、リリースまでの時間もない中でリファレンスを読み込んで必要な部分をキャッチして対応しました。  
   - 使用スキル : iOS(Swift)、Android(Java)、TVOS(Swift)、AndroidTV(Java)、React  
   - 開発体制 : 2 - 3人  
-  - ポジション : PG  
-
-## :computer: Programming skills
-- PHP(CakePHP) 5年 -  
-- iOS(Swift) 5年 - 
-- Android(Java) 5年 - 
-- React(Typescript) 半年 -    
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> </p>
+  - ポジション : 設計〜運用まで担当
 
 ## 🙆‍♂️ Strong point
 営業経験もあり、仕様調整のディレクションから、Webのバックエンド、アプリの開発まで幅広く対応可能です。  
@@ -90,6 +101,56 @@
 ## 📘 ブログ
 [ブログ](https://tatsunori-morita.com/)
 
-## 🌐 ポートフォリオ
-個人開発もしています。 iOSが一番好きなのでプライベートではiOS開発して遊んでいます。  
-[Pokémon WITH](https://github.com/Tatsunori-Morita/pokemon_with_ios)
+## 📱 個人開発
+React Native（TypeScript）を用いたモバイルアプリ開発を行っています。
+
+### ちびはだケア
+- 概要：子どもの塗り薬管理アプリの開発
+- 担当：設計 / 実装 / リリース / 運用
+- 技術：React Native（TypeScript）
+- 特徴：
+  - 体の部位ごとの塗り薬管理機能
+  - 写真記録機能
+
+- [App Store](https://apps.apple.com/us/app/%E3%81%A1%E3%81%B3%E3%81%AF%E3%81%A0%E3%82%B1%E3%82%A2-%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93-%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E5%A1%97%E3%82%8A%E8%96%AC%E8%A8%98%E9%8C%B2/id6755983174)
+- [Google Play](https://play.google.com/store/apps/details?id=com.tatsunori.morita.medicine_calendar_rn&hl=ja&pli=1)
+
+### 納期手帳
+- 概要：納期管理・スケジュール管理を目的としたモバイルアプリを企画・開発・運用。
+- 担当：企画 / 設計 / 実装 / リリース / 運用
+- 技術：React Native（TypeScript）
+- 特徴：
+  - 納期ごとのタスク管理
+  - カレンダー表示
+
+- [App Store](https://apps.apple.com/jp/app/%E7%B4%8D%E6%9C%9F%E6%89%8B%E5%B8%B3/id6760181246)
+- [Google Play](https://play.google.com/store/apps/details?id=com.tatsunori.morita.noki_techo_rn&hl=ja)
+
+### ファミリーフォト
+家族向けの写真管理アプリを開発。
+S3にオリジナル画像を保存し、Lambdaでリサイズ画像を生成する構成を採用。
+
+- 技術：
+  - AWS（S3 / Lambda / CloudFront / API Gateway）
+  - React Native
+
+- 詳細：
+[ファミリーフォトについて](https://tatsunori-morita.com/photo-sharing-app-personal-project/)
+
+## 🌐 OSSコントリビューション
+- 対象：[react-native-datetimepicker（React Native向け日付選択ライブラリ）](https://github.com/react-native-datetimepicker/datetimepicker)
+
+- 内容：DateTimePickerに関する不具合修正および改善対応
+
+- 対応：
+  - Androidの機能追加
+  - 不具合の原因調査
+  - 修正実装
+  - Pull Request作成
+
+- 成果：
+  - Pull Requestがマージされ、ライブラリに反映
+
+- GitHub：
+  [Pull request](https://github.com/react-native-datetimepicker/datetimepicker/pull/1004)
+  [Pull request](https://github.com/react-native-datetimepicker/datetimepicker/pull/992)
